@@ -47,7 +47,7 @@ destroy(this.cb_1)
 end on
 
 type cb_3 from commandbutton within w_genapp_main
-integer x = 425
+integer x = 311
 integer y = 500
 integer width = 402
 integer height = 112
