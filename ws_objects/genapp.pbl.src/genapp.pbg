@@ -7,4 +7,5 @@
  "m_genapp_main.srm" "genapp.pbl";
  "w_genapp_about.srw" "genapp.pbl";
  "w_genapp_main.srw" "genapp.pbl";
+ "w_test.srw" "genapp.pbl";
 @end;
